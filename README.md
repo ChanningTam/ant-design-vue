@@ -1,3 +1,10 @@
+## 說明
+
+- 用於定制組件，形成自己的組件庫
+- 与Antdv仓库保持同步方法：https://blog.csdn.net/qianghaohao/article/details/79330114?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0.no_search_link&spm=1001.2101.3001.4242.1&utm_relevant_index=3
+
+##
+
 <p align="center">
   <a href="https://www.antdv.com/">
     <img width="200" src="https://qn.antdv.com/logo.png">
